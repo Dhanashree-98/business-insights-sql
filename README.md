@@ -67,6 +67,6 @@ An overview of product performance across all transactions.
 
 
 ## Report Files
-  - Customer Report : customers_report.sql
-  - Product Report : products_report.sql
+  - Customer Report : 
+  - Product Report : 
 
